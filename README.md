@@ -1,3 +1,3 @@
 # tridentsec
-it is site for my portfolio
-## by gretoq
+This is site for my portfolio
+## by Dovhun Artem
